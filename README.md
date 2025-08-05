@@ -21,10 +21,11 @@ Bloom is an AI-powered, mobile-first healthcare platform designed to deliver fas
 📸 Screenshots
 Here is where you can add screenshots of your application. You can take screenshots of the different pages and features and add them here.
 
-(To add a screenshot, use this Markdown syntax and replace the placeholder text)
 
 ![HOME PAGE](home.png)
 ![FEATURES PAGE](features.png)
+![FEATURES PAGE](Ai.png)
+
 
 Home Page
 Bloom AI Assistant
@@ -34,7 +35,6 @@ Teleconsultation Booking
 Category	Technology
 Frontend	React.js, Vite, React Router, Axios
 Backend	Node.js, Express.js
-Database	MongoDB with Mongoose
 AI & NLP	Google Generative AI (Gemini), OpenRouter API
 Styling	CSS, Emotion, Material-UI (MUI)
 Real-time	Twilio API for SMS alerts
@@ -48,7 +48,7 @@ Node.js (v18 or higher)
 
 npm
 
-MongoDB Atlas account (or a local MongoDB instance)
+
 
 Installation
 Clone the repository:

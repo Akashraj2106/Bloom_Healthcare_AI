@@ -83,7 +83,7 @@ const Home = () => {
         <div className="touch-content">
           <h2>Have Questions?</h2>
           <p>Our team is here to help. Reach out to us for any inquiries or support, and we'll get back to you as soon as possible.</p>
-          <a href="mailto:satyamku88@gmail.com" className="touch-button">Contact Us</a>
+          <a href="mailto:userakashinfo@gmail.com" className="touch-button">Contact Us</a>
         </div>
       </section>
 

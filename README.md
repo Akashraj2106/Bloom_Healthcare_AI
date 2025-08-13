@@ -90,4 +90,4 @@ Bash
 
 # From the root project directory
 npm run dev
-The application should now be running on http://localhost:5174
+The application should now be running on http://localhost:5173

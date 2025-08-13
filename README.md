@@ -2,7 +2,7 @@
 Bloom is an AI-powered, mobile-first healthcare platform designed to deliver fast, accessible, and supportive medical care, with a focus on maternal health and rural communities.
 
 🚀 Key Features
-🤖 Bloom AI Assistant: Get instant, compassionate answers to your pregnancy question.
+🤖 Bloom AI Assistant: Get instant, compassionate answers to your pregnancy questions.
 
 🩺 AI Symptom Checker: Understand your symptoms with our intelligent, multilingual checker.
 
